@@ -1,4 +1,4 @@
-[!MasterHead(https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/6/3/b/small-spos14883-poster-poster-do-something-great-sl-14896-wall-original-imagkb9cgucq9fgp.jpeg?q=90&crop=false)]
+[![MasterHead](https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/6/3/b/small-spos14883-poster-poster-do-something-great-sl-14896-wall-original-imagkb9cgucq9fgp.jpeg?q=90&crop=false)]
 <h1 align="center">Hi 👋, I'm Harsh Mohite</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coder" width="400" src="<h1 align="center">Hi 👋, I'm Harsh Mohite</h1>
