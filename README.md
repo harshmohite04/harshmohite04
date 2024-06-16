@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Mohite</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img align="right" alt="Coder" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmohite04&label=Profile%20views&color=0e75b6&style=flat" alt="harshmohite04" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshmo98830407" target="blank"><img src="https://img.shields.io/twitter/follow/harshmo98830407?logo=twitter&style=for-the-badge" alt="harshmo98830407" /></a> </p>
