@@ -6,6 +6,7 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=harshmohite04&label=Profile%20views&color=0e75b6&style=flat" alt="harshmohite04" />
+    <br>
     <a href="https://twitter.com/harshmo98830407" target="blank">
         <img src="https://img.shields.io/twitter/follow/harshmo98830407?logo=twitter&style=for-the-badge" alt="harshmo98830407" />
     </a>
