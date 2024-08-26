@@ -12,7 +12,7 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on **CargoNavigator**
+- 🔭 I’m currently working on **Project: ClassRoom** (One Stop Solution For Schools and Colleges)
 - 🌱 I’m currently learning **React Native**
 - 🤝 I’m looking for help with **Noise Cancellation App using React Native**
 - 💬 Ask me about **AWS, Flutter, React Native, Python, C, JavaScript**
