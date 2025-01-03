@@ -112,7 +112,7 @@
 
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmohite04&" alt="harshmohite04" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmohite04&theme=dark" alt="harshmohite04" />
 </p>
 
 <h3 align="left">Support:</h3>
