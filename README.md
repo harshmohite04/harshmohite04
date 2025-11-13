@@ -13,9 +13,9 @@
 </p>
 
 - 🔭 I’m currently working on **Project: GovSarthi** (One Stop Solution For Indian Citizen)
-- 🌱 I’m currently learning **React Native**
-- 🤝 I’m looking for help with **Noise Cancellation App using React Native**
-- 💬 Ask me about **AWS, Flutter, React Native, Python, C, JavaScript**
+- 🌱 I’m currently learning **ME**
+- 🤝 I’m looking for help with **Everything**
+- 💬 Ask me about **Anything**
 - 📫 How to reach me **mohiteharsh639@gmail.com**
 - ⚡ Fun fact **A SQL query walks into a bar, goes up to two tables and says, 'Can I join you?'**
 
@@ -121,3 +121,4 @@
         <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohiteharsh6" />
     </a>
 </p>
+
