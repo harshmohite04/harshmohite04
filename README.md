@@ -12,9 +12,9 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on **Project: GovSarthi** (One Stop Solution For Indian Citizen)
+- 🔭 I’m currently working on **Project: LawFirmAI** 
 - 🌱 I’m currently learning **ME**
-- 🤝 I’m looking for help with **Everything**
+- 🤝 I’m looking for help with **Distribution**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **mohiteharsh639@gmail.com**
 - ⚡ Fun fact **A SQL query walks into a bar, goes up to two tables and says, 'Can I join you?'**
